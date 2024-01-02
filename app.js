@@ -9,7 +9,7 @@ linkForm.addEventListener('submit', (e) => {
     const options = {
         method: 'POST',
         headers: {
-            'Authorization': `Bearer victiny`,
+            'Authorization': `Bearer victin`,
             'Content-Type': 'application/json'
         },
         body: JSON.stringify({
